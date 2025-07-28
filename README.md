@@ -37,7 +37,7 @@ The key features are:
 To run the VQE simulation, simply execute the Python script:
 
 ```bash
-python vqe_h2_v1.py
+python VQE_H2.py
 ```
 
 ## Output
